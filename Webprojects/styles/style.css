@@ -1,0 +1,51 @@
+/* p {
+    font: 300;
+    font-style: italic;
+    color: cornflowerblue;
+    border: 2px solid black;
+}
+
+li{
+    font-size: 20px;
+    font-style: italic;
+    border: 1px solid black;
+} */
+
+
+html{
+    background-color: rgb(31, 212, 236);
+    font-size: 13px;
+    margin: 10px ;
+    /* padding: ; */
+    padding: 20px 20px 20px 20px;
+  
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    text-shadow:black 10px 13px 11px;
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  img{
+    display: block;
+    margin: 0 auto;
+  }
+
+  button{
+    display: block;
+    margin: 0 auto;
+  }
